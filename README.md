@@ -4,7 +4,7 @@ Apply machine to predict the categorical response variable of “cancer level”
 
 Compare the performance of each machine learning method and evaluate the prediction test error rates.
 
-We used variety kinds of machines to perform analysis to multi-class classification, including Linear Discriminant Analysis, K-Nearest Neighbors, Support Vector Machine, Naive Bayes, Multinomial Regression, Decision Tree and Random Forest. Here, the R code accounts for two models:
+We used variety kinds of machines to perform analysis to multi-class classification, including Linear Discriminant Analysis, K-Nearest Neighbors, Support Vector Machine, Naive Bayes, Multinomial Regression, Decision Tree and Random Forest. Here, the R code accounts for EDA part and two specific machines:
 
 ### Model 1 
 Linear Discriminant Analysis (LDA)
